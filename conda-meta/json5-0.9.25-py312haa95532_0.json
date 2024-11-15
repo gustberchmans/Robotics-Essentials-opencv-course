@@ -1,0 +1,61 @@
+{
+  "build": "py312haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\gustb\\anaconda3\\pkgs\\json5-0.9.25-py312haa95532_0",
+  "files": [
+    "Lib/site-packages/json5-0.9.25.dist-info/INSTALLER",
+    "Lib/site-packages/json5-0.9.25.dist-info/LICENSE",
+    "Lib/site-packages/json5-0.9.25.dist-info/METADATA",
+    "Lib/site-packages/json5-0.9.25.dist-info/RECORD",
+    "Lib/site-packages/json5-0.9.25.dist-info/REQUESTED",
+    "Lib/site-packages/json5-0.9.25.dist-info/WHEEL",
+    "Lib/site-packages/json5-0.9.25.dist-info/direct_url.json",
+    "Lib/site-packages/json5-0.9.25.dist-info/entry_points.txt",
+    "Lib/site-packages/json5-0.9.25.dist-info/top_level.txt",
+    "Lib/site-packages/json5/__init__.py",
+    "Lib/site-packages/json5/__main__.py",
+    "Lib/site-packages/json5/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/__main__.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/arg_parser.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/host.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/lib.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/parser.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/tool.cpython-312.pyc",
+    "Lib/site-packages/json5/__pycache__/version.cpython-312.pyc",
+    "Lib/site-packages/json5/arg_parser.py",
+    "Lib/site-packages/json5/host.py",
+    "Lib/site-packages/json5/lib.py",
+    "Lib/site-packages/json5/parser.py",
+    "Lib/site-packages/json5/py.typed",
+    "Lib/site-packages/json5/tool.py",
+    "Lib/site-packages/json5/version.py",
+    "Scripts/pyjson5-script.py",
+    "Scripts/pyjson5.exe",
+    ".nonadmin"
+  ],
+  "fn": "json5-0.9.25-py312haa95532_0.conda",
+  "license": "Apache-2.0",
+  "link": {
+    "source": "C:\\Users\\gustb\\anaconda3\\pkgs\\json5-0.9.25-py312haa95532_0",
+    "type": 1
+  },
+  "md5": "b2e70cc318f24edc1f2d44238f7eae04",
+  "name": "json5",
+  "package_tarball_full_path": "C:\\Users\\gustb\\anaconda3\\pkgs\\json5-0.9.25-py312haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "87a9dd44488ce90de295f43a713bc89533e4527b90c03b5ad34675f459459883",
+  "size": 82659,
+  "subdir": "win-64",
+  "timestamp": 1730787021000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/json5-0.9.25-py312haa95532_0.conda",
+  "version": "0.9.25"
+}
